@@ -2,3 +2,5 @@
 Trial repository for DSI-18 class
 
 Adding some changes to test git.
+
+Adding more changes.
